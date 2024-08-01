@@ -1,0 +1,27 @@
+{
+  "name": "reactjs",
+  "version": "1.0.0",
+  "description": "This is my first react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shafeemca/skb_reactjs.git"
+  },
+  "author": "Shafee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shafeemca/skb_reactjs/issues"
+  },
+  "homepage": "https://github.com/shafeemca/skb_reactjs#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
